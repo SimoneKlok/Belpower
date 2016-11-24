@@ -1,0 +1,120 @@
+11/20/2016 04:50:32 PM: info msg   (#3) from thread: 4216, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 04:50:32 PM: info msg   (#156) from thread: 4216, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 04:51:03 PM: info msg   (#156) from thread: 4216, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 04:54:09 PM: info msg   (#3) from thread: 4840, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 04:54:09 PM: info msg   (#156) from thread: 4840, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 04:54:14 PM: info msg   (#156) from thread: 4840, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 04:56:18 PM: info msg   (#3) from thread: 5860, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 04:56:18 PM: info msg   (#156) from thread: 5860, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 04:56:18 PM: info msg   (#156) from thread: 5860, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 04:59:32 PM: ERROR msg  (#156) from thread: 5860, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Error function CreatePayment() External component has thrown an exception.'
+
+11/20/2016 04:59:32 PM: info msg   (#156) from thread: 5860, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+11/20/2016 04:59:45 PM: info msg   (#3) from thread: 308, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 04:59:45 PM: info msg   (#156) from thread: 308, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 04:59:45 PM: info msg   (#156) from thread: 308, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 04:59:45 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 04:59:53 PM: info msg   (#3) from thread: 3208, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 04:59:53 PM: info msg   (#156) from thread: 3208, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 04:59:53 PM: info msg   (#156) from thread: 3208, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 04:59:53 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 05:00:13 PM: info msg   (#3) from thread: 3644, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 05:00:13 PM: info msg   (#156) from thread: 3644, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 05:00:13 PM: info msg   (#156) from thread: 3644, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 05:00:13 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 05:01:12 PM: info msg   (#3) from thread: 528, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 05:01:12 PM: info msg   (#156) from thread: 528, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 05:01:12 PM: info msg   (#156) from thread: 528, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 05:11:10 PM: info msg   (#3) from thread: 4728, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 05:11:10 PM: info msg   (#156) from thread: 4728, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 05:11:10 PM: info msg   (#156) from thread: 4728, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 05:11:46 PM: ERROR msg  ((c) #102015) from thread: 4728, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 05:14:26 PM: info msg   (#3) from thread: 4496, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 05:14:26 PM: info msg   (#156) from thread: 4496, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 05:14:26 PM: info msg   (#156) from thread: 4496, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 05:14:45 PM: ERROR msg  ((c) #102015) from thread: 4496, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 05:14:57 PM: ERROR msg  ((c) #102015) from thread: 4496, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 05:16:14 PM: info msg   (#3) from thread: 6692, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 05:16:14 PM: info msg   (#156) from thread: 6692, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 05:16:14 PM: info msg   (#156) from thread: 6692, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 05:16:48 PM: ERROR msg  ((c) #102015) from thread: 6692, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+

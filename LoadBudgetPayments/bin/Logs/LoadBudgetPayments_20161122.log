@@ -1,0 +1,60 @@
+11/22/2016 03:53:21 PM: info msg   (#3) from thread: 5372, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/22/2016 03:53:21 PM: info msg   (#156) from thread: 5372, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/22/2016 03:53:21 PM: info msg   (#156) from thread: 5372, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006938.TV_prod_213_Aangepast.csv'
+
+11/22/2016 03:53:21 PM: info msg   (#156) from thread: 5372, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/22/2016 03:53:21 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/22/2016 04:12:10 PM: info msg   (#3) from thread: 4100, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/22/2016 04:12:10 PM: info msg   (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/22/2016 04:12:10 PM: info msg   (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006938.TV_prod_213_Aangepast.csv'
+
+11/22/2016 04:12:10 PM: info msg   (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006938.TV_prod_213_Cancel.csv'
+
+11/22/2016 04:12:10 PM: ERROR msg  (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Unique Payment not found for EAN: 541456700003275216 with the following criteria: Date: 2016/09/02 Provider code: ATOS Provider ref: 912965483086 Payment ref:                                                                '
+
+11/22/2016 04:12:10 PM: ERROR msg  (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Unique Payment not found for EAN: 541456700002049320 with the following criteria: Date: 2016/09/02 Provider code: ATOS Provider ref: 906967265087 Payment ref:                                                                '
+
+11/22/2016 04:12:10 PM: ERROR msg  (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Unique Payment not found for EAN: 541456700001133761 with the following criteria: Date: 2016/09/03 Provider code: ATOS Provider ref: 904574688147 Payment ref:                                                                '
+
+11/22/2016 04:12:10 PM: info msg   (#156) from thread: 4100, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/22/2016 04:12:10 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/22/2016 04:13:25 PM: info msg   (#3) from thread: 2512, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/22/2016 04:13:25 PM: info msg   (#156) from thread: 2512, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/22/2016 04:13:25 PM: info msg   (#156) from thread: 2512, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006938.TV_prod_213_Cancel.csv'
+
+11/22/2016 04:13:26 PM: info msg   (#156) from thread: 2512, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/22/2016 04:13:26 PM:   ************* END LOG FILE SESSION *****************.
+
+

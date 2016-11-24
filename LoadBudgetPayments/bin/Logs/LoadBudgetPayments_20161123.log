@@ -1,0 +1,26 @@
+11/22/2016 07:47:03 PM: info msg   (#3) from thread: 1060, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/22/2016 07:47:03 PM: info msg   (#156) from thread: 1060, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/22/2016 07:47:03 PM: info msg   (#156) from thread: 1060, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/22/2016 07:47:03 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/23/2016 03:00:54 PM: info msg   (#3) from thread: 5020, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/23/2016 03:00:54 PM: info msg   (#156) from thread: 5020, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/23/2016 03:00:54 PM: info msg   (#156) from thread: 5020, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/23/2016 03:00:55 PM:   ************* END LOG FILE SESSION *****************.
+
+

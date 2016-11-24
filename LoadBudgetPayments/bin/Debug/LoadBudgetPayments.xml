@@ -1,0 +1,69 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LoadBudgetPayments
+</name>
+</assembly>
+<members>
+<member name="T:LoadBudgetPayments.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LoadBudgetPayments.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LoadBudgetPayments.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:LoadBudgetPayments.My.Resources.Resources.nexant_new_icon_hsu_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="T:LoadBudgetPayments.Logger">
+ <summary>
+ A utility class wrapping the RM Batch and BatchLogMsg classes.
+ </summary>
+</member>
+<member name="M:LoadBudgetPayments.Logger.WriteExtendedLog(System.String)">
+ <summary>
+   Write the passed info to the log ONLY if "extended logging" is turned on
+   in the config file. Extended logging is almost by definition "info"
+   level only.
+ </summary>
+ <param name="sMessage">msg text to log</param>
+</member>
+<member name="M:LoadBudgetPayments.Logger.WriteExtendedLog(System.String,System.Object[])">
+ <summary>
+   takes params similar to string.Format(), which this method directly
+   calls with the passed params;
+ </summary>
+ <param name="sFormat">format string suitable for passing to string.Format</param>
+ <param name="values">replaceable param values suitable for passing to string.Format</param>
+</member>
+<member name="M:LoadBudgetPayments.Logger.WriteConsoleLine(System.String)">
+ <summary>
+ Write a string out to the console and to debugger output. The m_bDebug switch
+ is set from the XML config file, but defaults to 'false'.
+ </summary>
+ <param name="sMsg">the text to output</param>
+</member>
+<member name="M:LoadBudgetPayments.Logger.OutputStartupError(System.String)">
+ <summary>
+ This static method is for startup code (reading the param file, logging in) to
+ use before the ErrorLog instance is created (the ErrorLog is now based on
+ the RM BatchLog, thus the app needs to be logged into the RM/HD infrastructure
+ before it can create an ErrorLog). This method is a static version of
+ WriteConsoleLine().
+ </summary>
+ <param name="sMsg">the text to output</param>
+</member>
+</members>
+</doc>

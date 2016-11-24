@@ -1,0 +1,109 @@
+11/21/2016 05:52:54 PM: info msg   (#3) from thread: 3920, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:52:54 PM: info msg   (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:52:54 PM: info msg   (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:52:54 PM: Warning msg(#122) from thread: 3920, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000615510'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001819214'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002291507'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001555068'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001273672'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002369367'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000370846'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002491341'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000603166'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003340310'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001744400'
+
+11/21/2016 05:52:55 PM: ERROR msg  (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:52:55 PM: info msg   (#156) from thread: 3920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:52:55 PM:   ************* END LOG FILE SESSION *****************.
+
+

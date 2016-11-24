@@ -1,0 +1,971 @@
+11/20/2016 07:45:14 PM: info msg   (#3) from thread: 5836, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 07:45:14 PM: info msg   (#156) from thread: 5836, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 07:45:14 PM: info msg   (#156) from thread: 5836, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 07:49:08 PM: info msg   (#3) from thread: 5472, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 07:49:08 PM: info msg   (#156) from thread: 5472, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 07:49:08 PM: info msg   (#156) from thread: 5472, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 07:51:26 PM: ERROR msg  ((c) #102006) from thread: 5472, thrown from file: Transaction.cpp (line: 240); caught in file: TransactionAPI.cpp (line: 553):
+    No vendor specified.
+
+11/20/2016 07:56:11 PM: info msg   (#3) from thread: 640, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 07:56:11 PM: info msg   (#156) from thread: 640, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 07:56:11 PM: info msg   (#156) from thread: 640, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 07:56:42 PM: info msg   (#156) from thread: 640, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 07:56:43 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 08:10:33 PM: info msg   (#3) from thread: 4928, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:10:33 PM: info msg   (#156) from thread: 4928, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:10:33 PM: info msg   (#156) from thread: 4928, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:11:16 PM: info msg   (#3) from thread: 3932, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:11:16 PM: info msg   (#156) from thread: 3932, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:11:16 PM: info msg   (#156) from thread: 3932, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:34:21 PM: info msg   (#3) from thread: 5372, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:34:21 PM: info msg   (#156) from thread: 5372, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:34:21 PM: info msg   (#156) from thread: 5372, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:36:45 PM: info msg   (#3) from thread: 6140, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:36:45 PM: info msg   (#156) from thread: 6140, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:36:45 PM: info msg   (#156) from thread: 6140, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:36:57 PM: ERROR msg  ((c) #102015) from thread: 6140, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 08:43:47 PM: info msg   (#3) from thread: 4856, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:43:47 PM: info msg   (#156) from thread: 4856, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:43:47 PM: info msg   (#156) from thread: 4856, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:44:05 PM: ERROR msg  ((c) #102015) from thread: 4856, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 08:48:03 PM: info msg   (#3) from thread: 928, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:48:03 PM: info msg   (#156) from thread: 928, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:48:03 PM: info msg   (#156) from thread: 928, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:48:06 PM: ERROR msg  (#156) from thread: 928, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Error function CreatePayment() Object reference not set to an instance of an object.'
+
+11/20/2016 08:48:06 PM: info msg   (#156) from thread: 928, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 08:48:06 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 08:48:15 PM: info msg   (#3) from thread: 5836, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:48:15 PM: info msg   (#156) from thread: 5836, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:48:15 PM: info msg   (#156) from thread: 5836, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 08:48:15 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 08:48:42 PM: info msg   (#3) from thread: 7152, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:48:42 PM: info msg   (#156) from thread: 7152, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:48:43 PM: info msg   (#156) from thread: 7152, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 08:48:46 PM: ERROR msg  (#156) from thread: 7152, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Error function CreatePayment() Object reference not set to an instance of an object.'
+
+11/20/2016 08:48:46 PM: info msg   (#156) from thread: 7152, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 08:48:46 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 08:49:16 PM: info msg   (#3) from thread: 3476, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:49:16 PM: info msg   (#156) from thread: 3476, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:49:16 PM: info msg   (#156) from thread: 3476, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/20/2016 08:49:16 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/20/2016 08:49:33 PM: info msg   (#3) from thread: 4576, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 08:49:33 PM: info msg   (#156) from thread: 4576, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 08:49:34 PM: info msg   (#156) from thread: 4576, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 09:00:10 PM: info msg   (#3) from thread: 4828, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 09:00:10 PM: info msg   (#156) from thread: 4828, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 09:00:10 PM: info msg   (#156) from thread: 4828, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 09:00:31 PM: ERROR msg  ((c) #102015) from thread: 4828, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 09:01:29 PM: info msg   (#3) from thread: 5684, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 09:01:29 PM: info msg   (#156) from thread: 5684, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 09:01:29 PM: info msg   (#156) from thread: 5684, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 09:01:40 PM: ERROR msg  ((c) #102015) from thread: 5684, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 09:02:08 PM: ERROR msg  ((c) #102015) from thread: 5684, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/20/2016 09:09:16 PM: info msg   (#3) from thread: 3640, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 09:09:16 PM: info msg   (#156) from thread: 3640, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 09:09:16 PM: info msg   (#156) from thread: 3640, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 09:14:16 PM: info msg   (#3) from thread: 3676, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 09:14:16 PM: info msg   (#156) from thread: 3676, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 09:14:16 PM: info msg   (#156) from thread: 3676, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 09:15:32 PM: info msg   (#3) from thread: 6040, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 09:15:32 PM: info msg   (#156) from thread: 6040, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 09:15:32 PM: info msg   (#156) from thread: 6040, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/20/2016 09:21:53 PM: info msg   (#3) from thread: 3112, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/20/2016 09:21:53 PM: info msg   (#156) from thread: 3112, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/20/2016 09:21:54 PM: info msg   (#156) from thread: 3112, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:25:49 AM: info msg   (#3) from thread: 5212, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:25:49 AM: info msg   (#156) from thread: 5212, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:25:49 AM: info msg   (#156) from thread: 5212, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 01:25:49 AM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 01:26:12 AM: info msg   (#3) from thread: 5480, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:26:12 AM: info msg   (#156) from thread: 5480, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:26:12 AM: info msg   (#156) from thread: 5480, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:26:50 AM: ERROR msg  ((c) #102015) from thread: 5480, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/21/2016 01:27:58 AM: info msg   (#3) from thread: 5700, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:27:58 AM: info msg   (#156) from thread: 5700, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:27:58 AM: info msg   (#156) from thread: 5700, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:28:43 AM: info msg   (#3) from thread: 4680, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:28:43 AM: info msg   (#156) from thread: 4680, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:28:43 AM: info msg   (#156) from thread: 4680, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:29:52 AM: info msg   (#3) from thread: 4920, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:29:52 AM: info msg   (#156) from thread: 4920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:29:52 AM: info msg   (#156) from thread: 4920, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:36:07 AM: info msg   (#3) from thread: 4428, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:36:07 AM: info msg   (#156) from thread: 4428, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:36:07 AM: info msg   (#156) from thread: 4428, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:36:52 AM: ERROR msg  ((c) #102015) from thread: 4428, thrown from file: VendorManager.cpp (line: 207); caught in file: TransactionAPI_Properties.cpp (line: 491):
+    No Vendor associated with Vendor ID ().
+
+11/21/2016 01:47:30 AM: info msg   (#3) from thread: 520, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:47:30 AM: info msg   (#156) from thread: 520, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:47:30 AM: info msg   (#156) from thread: 520, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:47:39 AM: Warning msg((c)#103030) from thread: 520, from file: TransactionAPI_Properties.cpp (line: 626  ):
+    A credit cannot be positive. Use charge.
+
+11/21/2016 01:47:57 AM: info msg   (#3) from thread: 4884, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:47:57 AM: info msg   (#156) from thread: 4884, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:47:57 AM: info msg   (#156) from thread: 4884, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 01:48:01 AM: info msg   (#156) from thread: 4884, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 01:48:01 AM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 01:48:10 AM: info msg   (#3) from thread: 4380, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:48:10 AM: info msg   (#156) from thread: 4380, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:48:10 AM: info msg   (#156) from thread: 4380, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 01:48:10 AM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 01:50:33 AM: info msg   (#3) from thread: 3764, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 01:50:33 AM: info msg   (#156) from thread: 3764, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 01:50:33 AM: info msg   (#156) from thread: 3764, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:11:50 PM: info msg   (#3) from thread: 892, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:11:50 PM: info msg   (#156) from thread: 892, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:11:50 PM: info msg   (#156) from thread: 892, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:12:52 PM: info msg   (#156) from thread: 892, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:12:52 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:13:05 PM: info msg   (#3) from thread: 5380, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:13:05 PM: info msg   (#156) from thread: 5380, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:13:05 PM: info msg   (#156) from thread: 5380, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:13:05 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:13:23 PM: info msg   (#3) from thread: 4840, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:13:23 PM: info msg   (#156) from thread: 4840, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:13:23 PM: info msg   (#156) from thread: 4840, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:13:38 PM: Warning msg(#122) from thread: 4840, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:35:35 PM: info msg   (#3) from thread: 6876, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:35:35 PM: info msg   (#156) from thread: 6876, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:35:35 PM: info msg   (#156) from thread: 6876, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:35:42 PM: Warning msg(#122) from thread: 6876, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:35:42 PM: info msg   (#156) from thread: 6876, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:35:42 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:35:52 PM: info msg   (#3) from thread: 5576, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:35:52 PM: info msg   (#156) from thread: 5576, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:35:52 PM: info msg   (#156) from thread: 5576, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:35:52 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:39:56 PM: info msg   (#3) from thread: 2332, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:39:56 PM: info msg   (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:39:56 PM: info msg   (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:40:01 PM: Warning msg(#122) from thread: 2332, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000615510'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001819214'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002291507'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001555068'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001273672'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002369367'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000370846'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002491341'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000603166'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003340310'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001744400'
+
+11/21/2016 05:40:01 PM: ERROR msg  (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:40:01 PM: info msg   (#156) from thread: 2332, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:40:01 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:40:10 PM: info msg   (#3) from thread: 5624, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:40:10 PM: info msg   (#156) from thread: 5624, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:40:10 PM: info msg   (#156) from thread: 5624, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:40:10 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:40:55 PM: info msg   (#3) from thread: 4088, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:40:55 PM: info msg   (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:40:55 PM: info msg   (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:41:08 PM: Warning msg(#122) from thread: 4088, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:41:45 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:42:30 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000615510'
+
+11/21/2016 05:42:38 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:42:39 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:42:40 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:42:41 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:42:42 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:42:43 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:42:44 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:42:45 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:42:46 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001819214'
+
+11/21/2016 05:42:47 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002291507'
+
+11/21/2016 05:42:48 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001555068'
+
+11/21/2016 05:42:49 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001273672'
+
+11/21/2016 05:42:50 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002369367'
+
+11/21/2016 05:42:51 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000370846'
+
+11/21/2016 05:42:52 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:42:53 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002491341'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000603166'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:42:57 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:42:58 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003340310'
+
+11/21/2016 05:42:58 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001744400'
+
+11/21/2016 05:42:58 PM: ERROR msg  (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:42:58 PM: info msg   (#156) from thread: 4088, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:42:58 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:44:47 PM: info msg   (#3) from thread: 4320, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:44:47 PM: info msg   (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:44:47 PM: info msg   (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:44:50 PM: Warning msg(#122) from thread: 4320, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000615510'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003347937'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001819214'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002291507'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001555068'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001273672'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002369367'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000370846'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002049320'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001675285'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003275216'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002470056'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002491341'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000603166'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700002174923'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001021372'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:50 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:44:50 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:51 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003340310'
+
+11/21/2016 05:44:51 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:51 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700001744400'
+
+11/21/2016 05:44:51 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:51 PM: ERROR msg  (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003494617'
+
+11/21/2016 05:44:51 PM: ERROR msg  ((c) #12) from thread: 4320, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:44:51 PM: info msg   (#156) from thread: 4320, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:44:51 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:46:14 PM: info msg   (#3) from thread: 4712, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:46:14 PM: info msg   (#156) from thread: 4712, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:46:14 PM: info msg   (#156) from thread: 4712, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Finished LoadBudgetPayments processing.'
+
+
+11/21/2016 05:46:15 PM:   ************* END LOG FILE SESSION *****************.
+
+
+11/21/2016 05:46:30 PM: info msg   (#3) from thread: 2788, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:46:30 PM: info msg   (#156) from thread: 2788, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:46:30 PM: info msg   (#156) from thread: 2788, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:47:34 PM: Warning msg(#122) from thread: 2788, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:47:46 PM: ERROR msg  (#156) from thread: 2788, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:47:46 PM: ERROR msg  ((c) #12) from thread: 2788, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:48:18 PM: ERROR msg  (#156) from thread: 2788, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700000615510'
+
+11/21/2016 05:48:18 PM: ERROR msg  ((c) #12) from thread: 2788, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+
+11/21/2016 05:49:05 PM: info msg   (#3) from thread: 1356, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:49:05 PM: info msg   (#156) from thread: 1356, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:49:05 PM: info msg   (#156) from thread: 1356, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:50:06 PM: info msg   (#3) from thread: 2600, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/21/2016 05:50:06 PM: info msg   (#156) from thread: 2600, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/21/2016 05:50:06 PM: info msg   (#156) from thread: 2600, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/21/2016 05:50:52 PM: Warning msg(#122) from thread: 2600, from file: XRefMgr.cpp  (line: 1391 ):
+    GetAttributeValueFromCode(): no refcode attribute found for domain: 'UNITS OF MEASURE', code: 'EUKH', attribute: 'Service Type'.
+
+11/21/2016 05:51:22 PM: ERROR msg  (#156) from thread: 2600, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'LDC account not found EAN: 541456700003702088'
+
+11/21/2016 05:51:22 PM: ERROR msg  ((c) #12) from thread: 2600, thrown from file: dbmgr.cpp (line: 420); caught in file: DB.cpp (line: 440):
+    DATABASE ERROR( 5 ) SQL call failed.
+Code( 3621 ) 22003
+Code 2( -1 ) [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting numeric to data type numeric. ** AND ** [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.
+

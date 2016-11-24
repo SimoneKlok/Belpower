@@ -1,0 +1,45 @@
+11/15/2016 06:30:41 PM: info msg   (#3) from thread: 4360, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/15/2016 06:30:41 PM: info msg   (#156) from thread: 4360, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/15/2016 06:31:39 PM: info msg   (#156) from thread: 4360, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/15/2016 06:40:39 PM: info msg   (#3) from thread: 5720, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/15/2016 06:40:39 PM: info msg   (#156) from thread: 5720, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/15/2016 06:40:52 PM: info msg   (#156) from thread: 5720, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/15/2016 10:00:15 PM: info msg   (#3) from thread: 2196, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/15/2016 10:00:15 PM: info msg   (#156) from thread: 2196, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/15/2016 10:00:28 PM: info msg   (#156) from thread: 2196, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/15/2016 10:03:10 PM: info msg   (#3) from thread: 5148, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/15/2016 10:03:10 PM: info msg   (#156) from thread: 5148, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/15/2016 10:03:12 PM: info msg   (#156) from thread: 5148, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
+11/15/2016 10:05:56 PM: info msg   (#3) from thread: 4264, from file: CRMsg.cpp    (line: 692  ):
+    ************* START LOG FILE SESSION ***************.
+
+11/15/2016 10:05:56 PM: info msg   (#156) from thread: 4264, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Batch checkpoint: Beginning LoadBudgetPayments processing.'
+
+11/15/2016 10:05:58 PM: info msg   (#156) from thread: 4264, from file: BatchLogMsg.cpp (line: 337  ):
+    LoadBudgetPayments: 'Processing file: 5414567999991.5499953664103.006741.TV_prod_213.csv'
+
