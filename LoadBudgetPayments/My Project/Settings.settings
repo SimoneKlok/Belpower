@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ComLoginId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">50A816FA57EEE8F9</Value>
+    </Setting>
+    <Setting Name="ComPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0DC6C4CBB7AE96B9</Value>
+    </Setting>
+    <Setting Name="MSS_UserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">abpread</Value>
+    </Setting>
+    <Setting Name="MSS_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ccs</Value>
+    </Setting>
+    <Setting Name="MSS_IntegratedSecurity" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MSS_Timeout" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">45</Value>
+    </Setting>
+    <Setting Name="BatchTransTypeCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExtendedLogging" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TraceOutput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="InputDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\LoadBudgetPayments\in\</Value>
+    </Setting>
+    <Setting Name="SeperationSymbol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="PaymentSubtype" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BMP</Value>
+    </Setting>
+    <Setting Name="UOMcode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KH</Value>
+    </Setting>
+    <Setting Name="Qualifiercode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IES</Value>
+    </Setting>
+    <Setting Name="Significancecode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TOT</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
