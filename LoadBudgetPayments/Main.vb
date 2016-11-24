@@ -65,7 +65,7 @@ Module Main
                     If Not Trim(lineOfText) = "" Then
                         fieldData = lineOfText.Split(sSeperationSymbol)
                         If fieldData.Length = 11 Then 'Body Lines have 11 variables
-                            'Body 
+                            'Body tttt
                             'fielddata(0)=codeline
                             'fielddata(1)=Code supplier
                             'fielddata(2)=payment Date
